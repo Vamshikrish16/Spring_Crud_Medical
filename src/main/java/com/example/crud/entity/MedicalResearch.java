@@ -45,7 +45,7 @@ import javax.persistence.*;
             this.title = title;
         }
 
-        public Participant getInstructor() {
+        public Participant getParticipant() {
             return participant;
         }
 
