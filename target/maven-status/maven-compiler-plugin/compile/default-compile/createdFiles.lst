@@ -1,0 +1,7 @@
+com/example/crud/entity/Participant.class
+com/example/crud/dao/ParticipantDaoImpl.class
+com/example/crud/dao/ParticipantDao.class
+com/example/crud/entity/Config.class
+com/example/crud/entity/MedicalResearch.class
+com/example/crud/CrudApplication.class
+com/example/crud/rest/MedicalCrudController.class
